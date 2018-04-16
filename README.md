@@ -1,3 +1,3 @@
 # hello-world
-A repository
+A repository.
 Wigby is a friend of mine.
